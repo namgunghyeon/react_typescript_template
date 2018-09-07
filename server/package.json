@@ -1,8 +1,7 @@
 {
-  "name": "booster-api",
-  "version": "1.0.0",
+  "name": "react-typscript-template",
+  "version": "0.0.1",
   "description": "",
-  "main": "handler.js",
   "scripts": {
     "dev": "NODE_PATH=src APP_ENV=local nodemon --inspect src/local --exec babel-node --plugins transform-es2015-modules-commonjs,transform-object-rest-spread,transform-async-to-generator"
   },
